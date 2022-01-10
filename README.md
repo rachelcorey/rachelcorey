@@ -15,7 +15,7 @@ Skills: Python / Java / Unity / C# / C / Art / Animation / Design / Photoshop / 
 
 ![Profile views](https://gpvc.arturio.dev/rachelcorey)  
 
-### ***Portfolio***
+# ***Portfolio***
 #### Here are a couple projects from the past few years:
 
 
@@ -77,7 +77,7 @@ This is a small checkers game I made for one of my school assignments. I created
 
 **Project for Software Quality class**
 
-![tic-tac-toe](tictactoe.gif)
+<p align="center"> <img src="tictactoe.gif"/> </p>
 
 
 **Tools used:**
