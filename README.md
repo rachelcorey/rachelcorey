@@ -20,28 +20,36 @@ Skills: Python / Java / Unity / C# / C / Art / Animation / Design / Photoshop / 
 #### Here are a couple projects from the past few years:
 
 ### AI-House
+
+**Personal Project**
+
+**Tools used:**
+*Python, Pytorch, C#, Unity, Google Colab*
+
 *Coming soon....*
 
 ### HomeForUs
 
 **Group Project for Databases class**
 
-[Github repo]() [Demo Video]()
+[Github repo]() 
+
+[Demo Video]()
 
 **Tools used:**
 *Java, Java Swing, MySQL*
 
 **My share of work in the group:**
 
-Program architecture: 98%
+*Program architecture:* 98%
 
-UX design: 90%
+*UX design:* 90%
 
-GUI coding: 80%
+*GUI coding:* 80%
 
-Database design: 20%
+*Database design:* 20%
 
-SQL queries: 10%
+*SQL queries:* 10%
 
 **Description:**
 
