@@ -1,6 +1,6 @@
 # hello and welcome!
 
-<p align="center"> <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" /> </p>
+<p align="center"> <img src="banner.png" /> </p>
 
 <p align="center"> <b>Skills:</b> <i>Python / Java / Unity / C# / C / Art / Animation / Design / Photoshop / After Effects</i> </p>
 
@@ -60,7 +60,7 @@ This is a program my group created in SER322, Fall 2021. I was fortunate enough 
 
 The program meant to represent an application where prospective home buyers can search a real estate database and apply to purchase a house. It supports database account creation for either a user or realtor type, wherein the two different users have different permissions and abilities within the system, such as realtor users being able to post a new listing for a house in the database, or approve submitted applications from home buyers.
 
-I was responsible for most of the programs' architecture, UX design, and GUI coding, as well as leading the GUI coding development within the last 2 weeks of the course. 
+I was responsible for most of the programs' architecture, UX design, and GUI coding, as well as leading the team in GUI coding development within the last 2 weeks of the course. 
 
 
 ## ♟️ ***Checkers*** 🎲
