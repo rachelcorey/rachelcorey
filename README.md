@@ -8,7 +8,8 @@
 - 🕵️‍♀️ Pronouns: she/her 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rachelcorey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/racheljcorey/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tumblr.svg' alt='tumblr' height='40'>](http://kirrys.tumblr.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg' alt='artstation' height='40'>](https://www.artstation.com/racheljcorey)  
+
+<p align="center"> <a href="https://www.linkedin.com/in/racheljcorey/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /></a> <a href="http://kirrys.tumblr.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tumblr.svg" /></a> <a href="https://www.artstation.com/racheljcorey"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg" /></a>  </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rachelcorey&show_icons=true" /> </p>
 
