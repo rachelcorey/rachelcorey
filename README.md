@@ -21,12 +21,12 @@
 <p align="center"> <img src="https://gpvc.arturio.dev/rachelcorey" /> </p>
 
 # 🖥️ Portfolio 🖌️
-#### Here are a couple projects from the past few years:
+#### Here are a couple projects from this past year....
 
 
 ## 🤖 ***AI-House*** 🏠
 
-**Personal Project**
+**Personal Project: WIP**
 
 **Tools used:**
 *Python, Pytorch, Huggingface Transformers, C#, Unity, Google Colab*
@@ -35,7 +35,7 @@
 
 ## 🏘️ ***HomeForUs*** 🔎
 
-**Group Project for Databases class**
+**Group Project for Databases class: completed October 2021**
 
 <p align="center"> <img src="home4us.gif"/> </p>
 
@@ -67,7 +67,7 @@ I was responsible for most of the programs' architecture, UX design, and GUI cod
 
 ## ♟️ ***Checkers*** 🎲
 
-**Project for Software Quality class**
+**Project for Software Quality class: completed May 2021**
 
 **Tools used:**
 *Java, JavaFX, Photoshop*
@@ -80,7 +80,7 @@ This is a small checkers game I made for one of my school assignments. I created
 
 ## ❌ ***Networked Tic-Tac-Toe*** ⭕
 
-**Project for Software Quality class**
+**Project for Software Quality class: completed April 2021**
 
 <p align="center"> <img src="tictactoe.gif"/> </p>
 
