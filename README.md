@@ -16,9 +16,7 @@
 
 <p align="center"> <img src="https://gpvc.arturio.dev/rachelcorey" /> </p>
 
-# 💻 Portfolio 🖌️
-#### Here are a couple projects from this past year....
-
+#### 💻 Here are a couple projects from this past year....
 
 ## 🤖 ***AI-House*** 🏠
 
