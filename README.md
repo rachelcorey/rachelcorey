@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" /> </p>
 
-<p align="center"> Skills: Python / Java / Unity / C# / C / Art / Animation / Design / Photoshop / After Effects </p>
+<p align="center"> <b>Skills:</b> Python / Java / Unity / C# / C / Art / Animation / Design / Photoshop / After Effects </p>
 
 - ⚒️ I’m currently working on earning my software engineering degree at ASU, set to graduate in Spring 2023
 - 🤞 I'm also working on getting an internship for Summer 2022 
@@ -27,7 +27,7 @@
 **Personal Project**
 
 **Tools used:**
-*Python, Pytorch, C#, Unity, Google Colab*
+*Python, Pytorch, Huggingface Transformers, C#, Unity, Google Colab*
 
 *Coming soon....*
 
