@@ -19,7 +19,7 @@ Skills: Python / Java / Unity / C# / C / Art / Animation / Design / Photoshop / 
 #### Here are a couple projects from the past few years:
 
 
-## 🤖🏠 AI-House
+## 🤖 AI-House 🏠
 
 **Personal Project**
 
@@ -28,7 +28,7 @@ Skills: Python / Java / Unity / C# / C / Art / Animation / Design / Photoshop / 
 
 *Coming soon....*
 
-## 🏘️🔎 HomeForUs
+## 🏘️ HomeForUs 🔎
 
 **Group Project for Databases class**
 
@@ -60,7 +60,7 @@ The program meant to represent an application where prospective home buyers can 
 I was responsible for most of the programs' architecture, UX design, and GUI coding, as well as leading the GUI coding development within the last 2 weeks of the course. 
 
 
-## ♟️🎲 Checkers
+## ♟️ Checkers 🎲
 
 **Project for Software Quality class**
 
@@ -73,7 +73,7 @@ This is a small checkers game I made for one of my school assignments. I created
 
 *Unfortunately, I am not permitted to post the code I wrote online for this assignment, as my professor has told me it would be an academic integrity violation; hopefully the example in the picture above gives you a good enough idea about what it's like.*
 
-## ❌⭕ Networked Tic-Tac-Toe
+## ❌ Networked Tic-Tac-Toe ⭕
 
 **Project for Software Quality class**
 
