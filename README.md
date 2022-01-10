@@ -2,7 +2,8 @@
 
 <p align="center"> Skills: Python / Java / Unity / C# / C / Art / Animation / Design / Photoshop / After Effects </p>
 
-- ⚒️ I’m currently working on earning my software engineering degree at ASU and getting an internship for Summer 2022 
+- ⚒️ I’m currently working on earning my software engineering degree at ASU, set to graduate in Spring 2023
+- 🤞 I'm also working on getting an internship for Summer 2022 
 - 🤓 I’m currently learning Pytorch / Machine Learning (**any help with this is appreciated!**) / AWS 
 - 💌 How to reach me: racheljcorey@gmail.com 
 - 🕵️‍♀️ Pronouns: she/her 
