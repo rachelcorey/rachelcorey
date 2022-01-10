@@ -1,6 +1,8 @@
+# hello!
+
 <p align="center"> <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" /> </p>
 
-<p align="center"> <b>Skills:</b> Python / Java / Unity / C# / C / Art / Animation / Design / Photoshop / After Effects </p>
+<p align="center"> <b>Skills:</b> <i>Python / Java / Unity / C# / C / Art / Animation / Design / Photoshop / After Effects</i> </p>
 
 - ⚒️ I’m currently working on earning my software engineering degree at ASU, set to graduate in Spring 2023
 - 🤞 I'm also working on getting an internship for Summer 2022 
