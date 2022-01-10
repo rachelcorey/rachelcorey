@@ -1,4 +1,4 @@
-# hello and welcome!
+# hello ',:)
 
 <p align="center"> <img src="banner.png" /> </p>
 
@@ -7,7 +7,7 @@
 - ⚒️ I’m currently working on earning my software engineering degree at ASU, set to graduate in Spring 2023
 - 🤞 I'm also working on getting an internship for Summer 2022 
 - 🤓 I’m currently learning Pytorch / Machine Learning (**any help with this is appreciated!**) / AWS 
-- 💌 How to reach me: racheljcorey@gmail.com 
+- 💌 How to reach me: racheljcorey at gmail 
 - 🕵️‍♀️ Pronouns: she/her 
 
 <p align="center" width="100%">
