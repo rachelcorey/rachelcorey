@@ -76,6 +76,9 @@ Unfortunately, I am not permitted to post the code I wrote online for this assig
 
 **Project for Software Quality class**
 
+![tic-tac-toe](/assets/images/tictactoe.gif)
+
+
 **Tools used:**
 *Java, JavaFX, Photoshop*
 
