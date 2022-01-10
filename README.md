@@ -16,8 +16,6 @@
     <a href="https://www.artstation.com/racheljcorey"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg" width="5%" /></a>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rachelcorey&show_icons=true" /> </p>
-
 <p align="center"> <img src="https://gpvc.arturio.dev/rachelcorey" /> </p>
 
 # 💻 Portfolio 🖌️
@@ -69,7 +67,7 @@ I was responsible for most of the programs' architecture, UX design, and GUI cod
 
 **Project for Software Quality class: completed May 2021**
 
-<p align="center"> <img src="checkers2.gif"/> </p>
+<p align="center"> <img src="checkers.gif"/> </p>
 
 **Tools used:**
 *Java, JavaFX, Photoshop*
