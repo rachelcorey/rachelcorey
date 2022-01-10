@@ -1,4 +1,4 @@
-# hello!
+# co tam! / hello!
 
 <p align="center"> <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" /> </p>
 
