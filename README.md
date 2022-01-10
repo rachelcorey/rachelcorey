@@ -1,12 +1,11 @@
 # hello ',:)
 
-<p align="center"> <img src="banner.png" /> </p>
+<p align="center"> <img src="hackirr.gif" /> </p>
 
-<p align="center"> <b>Skills:</b> <i>Python / Java / Unity / C# / C / Art / Animation / Design / Photoshop / After Effects</i> </p>
+<p align="center"> <b>Skills:</b> <i>Python / Java / Unity / C# / C / Art / Animation / Design</i> </p>
 
 - ⚒️ I’m currently working on earning my software engineering degree at ASU, set to graduate in Spring 2023
-- 🤞 I'm also working on getting an internship for Summer 2022 
-- 🤓 I’m currently learning Pytorch / Machine Learning (**any help with this is appreciated!**) / AWS 
+- 🤓 I’m currently learning Pytorch / Machine Learning / AWS 
 - 💌 How to reach me: racheljcorey at gmail 
 - 🕵️‍♀️ Pronouns: she/her 
 
@@ -27,7 +26,7 @@
 **Personal Project: WIP**
 
 **Tools used:**
-*Python, Pytorch, Huggingface Transformers, C#, Unity, Google Colab*
+*Python, C#, Unity, Google Colab*
 
 *Coming soon....*
 
@@ -41,18 +40,6 @@
 
 **Tools used:**
 *Java, Java Swing, MySQL*
-
-**My share of work in the group:**
-
-*Program architecture: 98%*
-
-*UX design: 90%*
-
-*GUI coding: 80%*
-
-*Database design: 20%*
-
-*SQL queries: 10%*
 
 **Description:**
 
