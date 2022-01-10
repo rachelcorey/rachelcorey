@@ -15,9 +15,7 @@ Skills: Python / Java / Unity / C# / C / Art / Animation / Design / Photoshop / 
 
 ![Profile views](https://gpvc.arturio.dev/rachelcorey)  
 
-<center>
-### Portfolio
-</center>
+<p align="center" style="font-size: 24px;"> Portfolio </p>
 #### Here are a couple projects from the past few years:
 
 
@@ -34,7 +32,7 @@ Skills: Python / Java / Unity / C# / C / Art / Animation / Design / Photoshop / 
 
 **Group Project for Databases class**
 
-![homeforus](home4us.gif)
+<p align="center"> <img src="home4us.gif"/> </p>
 
 [Github Repo](https://github.com/javallej/Homeforus) 
 
