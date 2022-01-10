@@ -69,12 +69,14 @@ I was responsible for most of the programs' architecture, UX design, and GUI cod
 
 **Project for Software Quality class: completed May 2021**
 
+<p align="center"> <img src="checkers.gif"/> </p>
+
 **Tools used:**
 *Java, JavaFX, Photoshop*
 
 **Description:**
 
-This is a small checkers game I made for one of my school assignments. I created all of the graphics and wrote all of the code. It is a standard checkers game program, and allows for multi-jumping opponents' pieces. You can either play locally with another person, or against a primative AI. 
+This is a small checkers game I made for one of my school assignments. I created all of the graphics and wrote all of the code. It is a standard checkers game program, and allows for multi-jumping opponents' pieces. You can either play locally with another person, or against a primative AI. You can also play with the text console version instead of the GUI, and have the option to watch two AI players play against each other.
 
 *Unfortunately, I am not permitted to post the code I wrote online for this assignment, as my professor has told me it would be an academic integrity violation; hopefully the example in the picture above gives you a good enough idea about what it's like.*
 
