@@ -1,4 +1,4 @@
-# co tam! / hello!
+# hello and welcome!
 
 <p align="center"> <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" /> </p>
 
@@ -67,7 +67,7 @@ I was responsible for most of the programs' architecture, UX design, and GUI cod
 
 **Project for Software Quality class: completed May 2021**
 
-<p align="center"> <img src="checkers.gif"/> </p>
+<p align="center"> <img src="checkers2.gif"/> </p>
 
 **Tools used:**
 *Java, JavaFX, Photoshop*
