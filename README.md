@@ -7,9 +7,12 @@
 - 💌 How to reach me: racheljcorey@gmail.com 
 - 🕵️‍♀️ Pronouns: she/her 
 
-
-
-<p align="center"> <a href="https://www.linkedin.com/in/racheljcorey/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /></a> <a href="http://kirrys.tumblr.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tumblr.svg" /></a> <a href="https://www.artstation.com/racheljcorey"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg" /></a>  </p>
+30% width each:
+<p align="center" width="100%">
+    <a href="https://www.linkedin.com/in/racheljcorey/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="8%" /></a> 
+    <a href="http://kirrys.tumblr.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tumblr.svg" width="8%" /></a>
+    <a href="https://www.artstation.com/racheljcorey"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg" width="8%" /></a>
+</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rachelcorey&show_icons=true" /> </p>
 
