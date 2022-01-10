@@ -19,6 +19,7 @@ Skills: Python / Java / Unity / C# / C / Art / Animation / Design / Photoshop / 
 ### Portfolio
 
 #### Here are a couple projects from the past few years:
+</center>
 
 ### AI-House
 
