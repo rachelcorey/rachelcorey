@@ -1,7 +1,6 @@
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<p align="center"> <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" /> </p>
 
-
-Skills: Python / Java / Unity / C# / C / Art / Animation / Design / Photoshop / After Effects
+<p align="center"> Skills: Python / Java / Unity / C# / C / Art / Animation / Design / Photoshop / After Effects </p>
 
 - ⚒️ I’m currently working on earning my software engineering degree at ASU and getting an internship for Summer 2022 
 - 🤓 I’m currently learning Pytorch / Machine Learning (**any help with this is appreciated!**) / AWS 
@@ -11,9 +10,9 @@ Skills: Python / Java / Unity / C# / C / Art / Animation / Design / Photoshop / 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rachelcorey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/racheljcorey/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tumblr.svg' alt='tumblr' height='40'>](http://kirrys.tumblr.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg' alt='artstation' height='40'>](https://www.artstation.com/racheljcorey)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rachelcorey&show_icons=true)  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rachelcorey&show_icons=true" /> </p>
 
-![Profile views](https://gpvc.arturio.dev/rachelcorey)  
+<p align="center"> <img src="https://gpvc.arturio.dev/rachelcorey" /> </p>
 
 # 🖥️ Portfolio 🖌️
 #### Here are a couple projects from the past few years:
