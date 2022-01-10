@@ -20,7 +20,7 @@
 
 <p align="center"> <img src="https://gpvc.arturio.dev/rachelcorey" /> </p>
 
-# 🖥️ Portfolio 🖌️
+# 💻 Portfolio 🖌️
 #### Here are a couple projects from this past year....
 
 
