@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="hackirr2.gif" /> </p>
 
-<p align="center"> <b>Skills:</b> <i>Python / Java / Unity / C# / C / Art / Animation / Design</i> </p>
+<p align="center"> <b>Skills:</b> <i>Python / Java / Unity / C# / C / Art </i> </p>
 
 - ⚒️ I’m currently working on my software engineering degree at ASU, set to graduate in spring 2023
 - 🤓 I’m currently learning Pytorch / Machine Learning / AWS 
@@ -16,15 +16,6 @@
 <p align="center"> <img src="https://gpvc.arturio.dev/rachelcorey" /> </p>
 
 #### 💻 a couple of my projects from this past year....
-
-## 🤖 ***AI-House*** 🏠
-
-**personal project: WIP**
-
-**tools used:**
-*Python, C#, Unity*
-
-*Coming soon....*
 
 ## 🏘️ ***HomeForUs*** 🔎
 
