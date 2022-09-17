@@ -2,10 +2,10 @@
 
 <p align="center"> <img src="hackirr.gif" /> </p>
 
-<p align="center"> <b>Skills:</b> <i>Python / Java / Unity / C# / C / Art </i> </p>
+<p align="center"> <b>Skills:</b> <i>Python / Java / Javascript / Unity / C# / C / Art </i> </p>
 
-- ⚒️ I’m currently working on my software engineering degree at ASU, set to graduate in spring 2023
-- 🤓 I’m currently learning Pytorch / Machine Learning / AWS 
+- ⚒️ currently working on my software engineering degree at ASU, set to graduate in spring 2023
+- 🤓 currently learning good ol Javascript 
 - 💌 how to reach me: racheljcorey at gmail 
 
 <p align="center" width="100%">
@@ -15,7 +15,7 @@
 
 <p align="center"> <img src="https://gpvc.arturio.dev/rachelcorey" /> </p>
 
-#### 💻 a couple of my projects from this past year....
+#### 💻 a couple of my school projects:
 
 ## 🏘️ ***HomeForUs*** 🔎
 
