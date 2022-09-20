@@ -6,7 +6,7 @@
 
 - ⚒️ currently working on my software engineering degree at ASU, set to graduate in spring 2023
 - 🤓 currently learning good ol Javascript 
-- 💌 how to reach me: racheljcorey at gmail 
+- 💌 how to reach me: racheljcorey : g.mail 
 
 <p align="center" width="100%">
     <a href="https://www.linkedin.com/in/racheljcorey/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="5%" /></a> 
