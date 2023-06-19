@@ -2,9 +2,9 @@
 
 <p align="center"> <img src="hackirr.gif" /> </p>
 
-<p align="center"> <b>Skills:</b> <i>Type/JavaScript / C# / Python / Java / Art </i> </p>
+<p align="center"> <b>Skills:</b> <i>TypeScript / JavaScript / C# / Python / Java / Art </i> </p>
 
-<p align="center"><a href="https://kirrys.tumblr.com">My Art</a></p>
+<p align="center"><a href="https://kirrys.tumblr.com">my art</a></p>
 
 - ⚒️ currently working at Softheon as a software engineer! primarily working in Angular and .NET
 - 🤓 currently learning unity game physics lol
